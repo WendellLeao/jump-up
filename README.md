@@ -1,4 +1,4 @@
 My first game made in Unity game engine. 
 
-SPOILER!!!!
+!!!!SPOILER!!!!
 This game is bad.
